@@ -738,7 +738,7 @@ table {
   border-collapse: -moz-initial;
   border-collapse: initial;
   border-spacing: 2px;
-  border-bottom: 1px solid #797979;
+  border-bottom: none;
 }
 /* line 515, ../scss/default.scss */
 table tr > td:first-child, table th {
@@ -778,7 +778,7 @@ table td.highlight {
 /* line 540, ../scss/default.scss */
 table.rows {
   border-bottom: none;
-  border-right: 1px solid #797979;
+  border-right:  none;
 }
 
 /* line 546, ../scss/default.scss */

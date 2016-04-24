@@ -167,7 +167,7 @@ table {
 }
 table thead {
   border-top: 1px solid #BFBEAD;
-  border-bottom: 1px solid #BFBEAD;
+  border-bottom: none;
 }
 table th, table td, table caption {
   margin: 0;
@@ -181,7 +181,7 @@ table th {
   text-transform: uppercase;
 }
 table td {
-  border-bottom: 1px solid #CFCEBD;
+  border-bottom: none;
 }
 table tr:nth-child(2n+1) {
 /*  background: #E8F2FF; */
